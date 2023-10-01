@@ -29,7 +29,7 @@ See! It's that simple to install and setup Jupyter Notebook. Now, let's get star
 Below are some formulas that you have already learned in high school, but have most likely forgotten. So, let's recap them, shall we?
 
 - **Mean (Average):**
-    - \( \bar{x} = \frac{1}{N} \sum_{i=1}^{N} x_i \)
+    - ![](https://quicklatex.com/cache3/92/ql_ba6abf4739c80d622692b55cbae19e92_l3.png)
 
 - **Median:**
   - For an *Odd*-Numbered Dataset:
