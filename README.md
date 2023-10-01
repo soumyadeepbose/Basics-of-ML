@@ -37,13 +37,13 @@ Below are some formulas that you have already learned in high school, but have m
   - For an *Even*-Numbered Dataset:
     - ![](https://quicklatex.com/cache3/09/ql_ac08c343f18bb3aa8ba76bb66d725e09_l3.png)
 
-- **Standard Deviation (\( \sigma \)):**
+- **Standard Deviation:**
     - ![](https://quicklatex.com/cache3/f2/ql_ac1615b0b3fa3ae84a93af91b91233f2_l3.png)
-    - 
+
 - **z-Score (Standard Score):**
   - ![](https://quicklatex.com/cache3/7f/ql_de163e719a835cb8eb4fad023a68cb7f_l3.png)
 
-- **Variance (\( \sigma^2 \)):**
+- **Variance:**
     - ![](https://quicklatex.com/cache3/e7/ql_400a0897c3700f268b6256e7b25e9fe7_l3.png)
 
 Given below is a code snippet to try out the further below mentioned plots using the very famous matplotlib library of Python, that you can install using ```pip install matplotlib``` from your *cmd*.
