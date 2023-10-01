@@ -99,7 +99,7 @@ import numpy as np
 |`np.median(m)`| Same as that of np.mean() except that this function will return the median of the flattened matrix. | 
 |`np.std(m)`| Same as that of np.mean() except that this function will return the standard deviation of the flattened matrix. | 
 |`np.linalg.inv(m)`| If you give a numpy matrix m of any dimension as the parameter to this function, it will return the inverse of m. | 
-|`np.linalg.solve(a, b)`| Given two matrices a and b, this function will return a matrix containing the solution, which is X as per the following formula: \[a \cdot X = b\]| 
+|`np.linalg.solve(a, b)`| Given two matrices a and b, this function will return a matrix containing the solution, which is X as per the following formula: ![](https://quicklatex.com/cache3/0d/ql_d9308948b25d051f54c4da5bd229530d_l3.png)| 
 
 These were some basic numpy functions that you need to know to get started. For further reading, you can check out the [numpy documentation](https://numpy.org/doc/stable/reference/index.html).
 
