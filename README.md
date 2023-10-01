@@ -29,7 +29,7 @@ See! It's that simple to install and setup Jupyter Notebook. Now, let's get star
 Below are some formulas that you have already learned in high school, but have most likely forgotten. So, let's recap them, shall we?
 
 - **Mean (Average):**
-    - ![](https://quicklatex.com/cache3/92/ql_ba6abf4739c80d622692b55cbae19e92_l3.png)
+    - ![](https://quicklatex.com/cache3/87/ql_f54d4766c31581b521ea06a95962c087_l3.png)
 
 - **Median:**
   - For an *Odd*-Numbered Dataset:
